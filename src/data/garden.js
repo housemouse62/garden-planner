@@ -35,8 +35,8 @@ export const garden = {
       id: "bed-4",
       name: "Bed 4",
       points: [
-        [10, 1],
-        [7, 4],
+        [10, 1.5],
+        [7, 4.5],
         [11, 9],
         [14, 6],
       ],
